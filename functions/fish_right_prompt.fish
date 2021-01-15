@@ -1,3 +1,3 @@
 function fish_right_prompt
-    echo '<' (spinner) 
+    # sleep .25s
 end
